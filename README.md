@@ -1,1 +1,1 @@
-Pequeño proyecto realizado con la finalidad de tener un control en tus gastos, segun el presupuesto semanal que se introduzca.
+## App que ayuda mantener un control de tus gastos semanales segun tu presupuesto establecido
